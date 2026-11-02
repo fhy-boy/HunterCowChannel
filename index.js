@@ -3263,7 +3263,7 @@
 
                 <section class="hcc-card">
                     <h3 class="hcc-card-title"><span class="hcc-card-ico">ℹ</span>关于</h3>
-                    <div class="hcc-settings-hint">猎牛观察频道 v${VERSION}<br>作者：躺平小子 &amp; Claude（Anthropic 的 AI 助手，协助编写）<br>这是社区作品，与 Anthropic 官方无关。<br>使用说明与更新记录见项目主页的 README。</div>
+                    <div class="hcc-settings-hint">猎牛观察频道 v${VERSION}<br>作者：Foui &amp; Claude <br>这是社区作品，与 Anthropic 官方无关。<br>使用说明与更新记录见项目主页的 README。</div>
                 </section>
             </div>
 
