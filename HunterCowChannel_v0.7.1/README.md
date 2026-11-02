@@ -5,7 +5,7 @@
 
 ![主界面](docs/images/ui-main.png)
 
-**作者：躺平小子 & Claude**（Claude 是 Anthropic 的 AI 助手，协助编写；本项目是社区作品，与 Anthropic 官方无关）
+**作者：Foui & Claude**
 
 ---
 
@@ -33,13 +33,12 @@
 
 **方式一（推荐）：用 Git URL 安装**
 
-1. 打开酒馆，点顶部的「扩展」（三个方块的图标）。
+1. 打开酒馆，点顶部的「扩展」。
 2. 点「安装扩展」，在输入框里粘贴下面的地址，再点安装：
 
    ```
-   https://github.com/你的用户名/HunterCowChannel
+   https://github.com/fhy-boy/HunterCowChannel
    ```
-   将「你的用户名」替换为仓库所有者的 GitHub 用户名。这个地址必须指向**公开的 Git 仓库**，不是 ZIP 下载地址。
 3. 安装完成后**刷新酒馆页面**，右下角会出现猎牛人的立绘。
 
 > 需要运行酒馆的那台机器装有 Git（电脑版酒馆一般已经带了；手机 Termux 请先 `pkg install git`）。
@@ -213,7 +212,7 @@
 ## 素材授权与致谢
 
 - 代码与文档：[MIT License](LICENSE)。
-- `assets/` 里的猎牛人立绘由**躺平小子**制作（AI 辅助），随扩展一起提供。素材仅限个人使用与非商业分享，**请勿用于商业用途**；如需商用或二次创作，请先联系作者。（作者可在此处修改授权说明。）
+- `assets/` 里的猎牛人立绘由**Foui**制作，随扩展一起提供。素材仅限个人使用与非商业分享，**请勿用于商业用途**；如需商用或二次创作，请先联系作者。
 - 想换成自己的立绘？见 [Q 版形象制作指南](docs/Q版形象制作指南.md)。
-- 作者：**躺平小子 & Claude**。更新记录见 [CHANGELOG](CHANGELOG.md)。
+- 作者：**Foui & Claude**。克神牛逼，我是躺平小子！！！更新记录见 [CHANGELOG](CHANGELOG.md)。
 - 本项目是社区作品，**与 Anthropic 官方无关**。
