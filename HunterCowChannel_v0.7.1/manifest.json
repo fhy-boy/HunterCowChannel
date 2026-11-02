@@ -1,0 +1,12 @@
+{
+  "display_name": "猎牛观察频道",
+  "loading_order": 999,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "躺平小子 & Claude",
+  "version": "0.7.1",
+  "homePage": "",
+  "auto_update": true
+}
