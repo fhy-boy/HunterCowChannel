@@ -5,7 +5,7 @@
 
 ![主界面](docs/images/ui-main.png)
 
-**作者：躺平小子 & Claude**（Claude 是 Anthropic 的 AI 助手，协助编写；本项目是社区作品，与 Anthropic 官方无关）
+**作者：Foui & Claude**
 
 ---
 
